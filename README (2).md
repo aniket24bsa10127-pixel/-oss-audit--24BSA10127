@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Prakhar Upadhyay(24BSA10143)
+- Name: Aniket Rajaram Jadhav(24BSA10127)
 - Course: Open Source Software
 - Project Title: Open Source Audit
 
